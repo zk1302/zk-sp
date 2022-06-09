@@ -8,6 +8,7 @@ public class ZkspApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ZkspApplication.class, args);
+		System.out.println("------启动成功------");
 	}
 
 }
